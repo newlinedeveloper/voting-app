@@ -1,0 +1,50 @@
+.dashboard {
+  background-color: #ffffff;
+}
+
+.tab-bar {
+  height: 60px;
+  font-size: 15px;
+  background-color: #3b3b3b;
+  overflow: hidden;
+}
+
+.tab-bar a:link,
+.tab-bar a:visited {
+  float: left;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+  padding: 18px 20px;
+}
+
+.tab-bar a:hover,
+.active {
+  background-color: rgba(225, 255, 255, 0.1);
+  color: #ffffff;
+  border-bottom: 3px solid #ffffff;
+}
+
+.sidebar ul {
+  background-color: #f8f8ff;
+}
+
+.sidebar ul .ant-menu-sub {
+  background-color: #fbfbf8;
+}
+
+.content {
+  background-color: white;
+  padding: 2%;
+}
+
+section .ant-layout {
+  background-color: #ffffff;
+}
+
+.drawer-basic {
+    margin-top: 90px;
+    padding: 30px;
+}
+

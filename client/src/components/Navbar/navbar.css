@@ -1,0 +1,50 @@
+.nav-bar {
+  height: 60px;
+  background-color: #ffffff;
+}
+
+.nav-bar ul {
+  list-style: none;
+  float: right;
+  display: inline-flex;
+  margin: 0;
+}
+
+.nav-bar ul li button {
+  border: none;
+  color: #3b3b3b;
+  background-color: #ffffff;
+  height: 60px;
+  width: 60px;
+  font-size: 22px;
+  padding: 5px;
+  outline: none;
+  margin: -8px 0 0 0;
+}
+
+.logo-white {
+  width: 150px;
+  margin-left: 6px;
+}
+
+.nav-bar ul li button:hover {
+  background-color: #f0f0f0;
+}
+
+.avatar-dropdown {
+  background-color: #ffffff;
+  border: none;
+  color: #3b3b3b;
+  padding: 0 0 0 5px;
+}
+
+.avatar-dropdown span,
+.nav-bar ul li button svg {
+  margin-bottom: 4px;
+}
+
+.dropdown-toggle::after {
+  color: #3b3b3b;
+  font-size: 15px;
+  margin: 25px 0 0 3.85px;
+}

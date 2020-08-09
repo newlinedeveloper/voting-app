@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea15a9f0.chunk.css",
+    "main.js": "/static/js/main.62ef68ff.chunk.js",
+    "main.js.map": "/static/js/main.62ef68ff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cb5b1f2c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cb5b1f2c.js.map",
+    "static/css/2.79e85b5e.chunk.css": "/static/css/2.79e85b5e.chunk.css",
+    "static/js/2.185f80ef.chunk.js": "/static/js/2.185f80ef.chunk.js",
+    "static/js/2.185f80ef.chunk.js.map": "/static/js/2.185f80ef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c103407fa74d12801dfa7a14827dd3ff.js": "/precache-manifest.c103407fa74d12801dfa7a14827dd3ff.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.79e85b5e.chunk.css.map": "/static/css/2.79e85b5e.chunk.css.map",
+    "static/css/main.ea15a9f0.chunk.css.map": "/static/css/main.ea15a9f0.chunk.css.map",
+    "static/js/2.185f80ef.chunk.js.LICENSE.txt": "/static/js/2.185f80ef.chunk.js.LICENSE.txt",
+    "static/media/bi_polar.png": "/static/media/bi_polar.e06ab775.png",
+    "static/media/react.png": "/static/media/react.cd7bb6be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb5b1f2c.js",
+    "static/css/2.79e85b5e.chunk.css",
+    "static/js/2.185f80ef.chunk.js",
+    "static/css/main.ea15a9f0.chunk.css",
+    "static/js/main.62ef68ff.chunk.js"
+  ]
+}
